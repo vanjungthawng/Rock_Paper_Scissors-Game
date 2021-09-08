@@ -8,4 +8,4 @@ Here is the link:
 
 ## Game Screenshots
 
-![](./assets/userChoiceOption.png)
+![](./assets/images/userChoiceOption.png)
